@@ -1,0 +1,9 @@
+1. Create runtime environment : python -m venv {env_name}
+2. Open runtime environment : {env_name}\Scripts\activate
+3. Run in the venv : pip install -r requirements.txt
+4. Now Run python main.py
+
+Issues
+If cairo-2 not found error 
+Install GTK-for-Windows-Runtime-Environment-Installer (v3)
+https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer
